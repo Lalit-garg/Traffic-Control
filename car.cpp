@@ -95,7 +95,7 @@ void move1(int xy)
 	}
 	setcolor(WHITE);
 }
-
+//For moving
 void move2(int xy)
 {
 	int i=c2;
