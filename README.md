@@ -1,1 +1,1 @@
-This is based on Jab Scheduling
+This is based on Job Scheduling
